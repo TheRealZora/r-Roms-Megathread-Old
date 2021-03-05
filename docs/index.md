@@ -1,5 +1,7 @@
 ### ** Rom Center Markdown Edition 2021 **
 
+Use the buttons at the top to navigate the megathread.
+
 ## <br/>**Tips**<br/>
 
 <br/>**Internet Archive PSA:**
