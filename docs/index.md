@@ -1,6 +1,6 @@
-### ** Rom Center Markdown Edition 2021 **
+### ** Rom Center Markdown Edition 2021 **<br/>
 
-Use the buttons at the top to navigate the megathread.
+<br/>**Use the buttons at the top to navigate the megathread.**
 
 ## <br/>**Tips**<br/>
 
