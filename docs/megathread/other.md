@@ -25,7 +25,8 @@ FinalBurn Neo
 
 - |**Romsets**|**Links**|
 | ------ | ------ |
-| No-Intro 2021 (requires archive.org account)| [Link](https://archive.org/download/no-intro_romsets/no-intro%20romsets/) |
+| No-Intro Collection 2021 | [Link](https://archive.org/download/no-intro_romsets/no-intro%20romsets/) (This collection requires an archive.org account to view and download, there should be an option to Sign Up in the top right corner, once you've signed up and logged in, click the link here again and the files should be visible to you.) |
+| No-Intro Collection 2016-01-03 | [Link](https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) |
 | GoodSets | [Link](https://1fichier.com/dir/ugDwQd8N) |
 | TOSEC 2018-12-27 | [Link](https://archive.org/download/TOSEC_Main_Branch_Release_2018-12-27) |
 | EverDrive 2018 Torrent | [Link](https://pastebin.com/raw/ywTQeDmS) |

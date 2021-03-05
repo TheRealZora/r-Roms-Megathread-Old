@@ -1,8 +1,11 @@
 ### ** Rom Center Markdown Edition 2021 **
 
+## <br/>**Tips**<br/>
 
+<br/>**Internet Archive PSA:**
 
-
+Internet Archive items will have metadata files that end in extensions like `.xml` and `.sqlite`, these files are not important to download and rather are meant for the website to know what files to display and the reviews of the item.<br/>
+<br/>![IAMETA](img/internetarchivemetadata.png)
 
 ## <br/>**Ublock Origin**
 
@@ -17,10 +20,10 @@ Below are the links to download it on most common browsers.
 | Opera addons for use on Opera/Opera GX DESKTOP Browser | [Link](https://addons.opera.com/en/extensions/details/ublock/) |
 
 As for Android, first go to the playstore download Firefox, this will be the browser that you download ALL roms with, after that tap
-on the addons button and select uBlock Origin, it will be first on the list as it's the most popular addon for Android Firefox. Add it to Firefox,
+on the addons button and select uBlock Origin, it will be first on the list as it's the most popular addon for Android Firefox. Add it to Firefox,<br/>
 and you are done. 
 
-
+<br/>
 
 ## **Quota bypass methods**<br/>
 
