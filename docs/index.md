@@ -1,10 +1,10 @@
-### ** Rom Center Markdown Edition 2021 **<br/>
+### **Rom Center Markdown Edition 2021**<br/>
 
-<br/>**Use the buttons at the top to navigate the megathread.**
+##### <br/>Use the buttons at the top to navigate the megathread.
 
-## <br/>**Tips**<br/>
+##<br/>**Tips**
 
-<br/>**Internet Archive PSA:**
+**Internet Archive PSA:**
 
 Internet Archive items will have metadata files that end in extensions like `.xml` and `.sqlite`, these files are not important to download and rather are meant for the website to know what files to display and the reviews of the item.<br/>
 <br/>![IAMETA](img/internetarchivemetadata.png)

@@ -47,8 +47,9 @@ DSiWare
 | No-Intro Nintendo 3DS Encrypted .3ds Part 1 | [Link](https://archive.org/download/3ds-main-encrypted) |
 | No-Intro Nintendo 3DS Encrypted .3ds Part 2 | [Link](https://archive.org/download/3ds-main-encrypted-p2) |
 | Nintendo 3DS eShop Complete Collection .cia/.3ds | [Link](https://archive.org/download/nintendo-3ds-eshop-complete-collection) |
-| Nintendo 3DS Complete Collection .3ds [1-1700] | [Link](https://archive.org/download/nintendo-3ds-complete-collection)
-| Nintendo 3DS Complete Collection .3ds [1701-1861] | [Link](https://archive.org/download/nintendo-3ds-complete-collection-pt2)
+| Nintendo 3DS Complete Collection .3ds [1-1700] | [Link](https://archive.org/download/nintendo-3ds-complete-collection) |
+| Nintendo 3DS Complete Collection .3ds [1701-1861] | [Link](https://archive.org/download/nintendo-3ds-complete-collection-pt2) |
+| Nintendo 3DS DLC and Updates Encrypted | [Link](https://archive.org/download/3ds-dlc-and-updates-encrypted) |
 
 - |**Mega: ALL**|**Links**|
 | ------ | ------ |
