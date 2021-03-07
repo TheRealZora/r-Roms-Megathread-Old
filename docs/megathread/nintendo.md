@@ -14,7 +14,8 @@ DS
 
 - |**Other: All**|**Links**| 
 | ------ | ------ |
-mobasuitecom No-Intro (Link Temporarily Down)| [Link](http://90.230.15.92/Nintendo/Nintendo%20DS/) |
+| mobasuitecom No-Intro (Link Temporarily Down) | [Link](http://90.230.15.92/Nintendo/Nintendo%20DS/) |
+| Squid-Proxy No-Intro | [Link](https://www.squid-proxy.xyz/Games/Nintendo%20DS/) |
 
 DS Download Play
 
