@@ -4,10 +4,14 @@
 
 ##<br/>**Tips**
 
-**Internet Archive PSA:**
+<br/>**Note about Internet Archive:**
 
 Internet Archive items will have metadata files that end in extensions like `.xml` and `.sqlite`, these files are not important to download and rather are meant for the website to know what files to display and the reviews of the item.<br/>
-<br/>![IAMETA](img/internetarchivemetadata.png)
+<br/>![IAMETA](img/internetarchivemetadata.png)<br/>
+
+**Note about Achive Files (`zip`/`7z`/`rar`)**
+
+These files are not ROMs themselves, to use them, you must extract them. 7-Zip is used to extract these files, to install it, download a setup exe from [here](https://www.7-zip.org/) and run it. You should be taken through the installation setup., to use 7-Zip after it's done installing, you can either double click on your downloaded archive file or right click on the file and select `7-Zip -> Extract Files`.
 
 ## <br/>**Ublock Origin**
 
