@@ -18,7 +18,6 @@ FinalBurn Neo
 - |**FinalBurn Neo ROMs**|**Links**|
 | ------ | ------ |
 | FinalBurn Neo Nightly ROMs + Support (Updated Monthly) | [Link](https://archive.org/download/2020_01_06_fbn) |
-| FinalBurn Neo Nightly ROMs (Updated Almost Daily) | [Link](http://90.230.15.92/arcade/finalburnneo/) |
 | FinalBurn Neo 1.0.0.0 ROMs + Support | [Link](https://archive.org/download/fbneo/FBNeo/) |
 
 ## **Romsets**
