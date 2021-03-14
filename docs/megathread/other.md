@@ -11,7 +11,6 @@ Links to other stuff<br/>
 | Update MAME 0.220 Software List ROMs (0.220->0.229) | [Link](https://archive.org/download/mame_sl_0220/Updates/) |
 | MAME 0.229 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
 | MAME 0.229 ROMs Merged (**Internet Archive**) | [Link](https://archive.org/download/mame.0229)
-| MAME 0.229 ROMS Merged (**mobasuitecom Open Directory**)| [Link](http://90.230.15.92/Arcade/mame/) |
 
 FinalBurn Neo
 
