@@ -18,6 +18,7 @@ DS
 - |**Other: All**|**Links**| 
 | ------ | ------ |
 | Squid-Proxy No-Intro | [Link](https://www.squid-proxy.xyz/Games/Nintendo%20DS/) |
+| mobasuitecom No-Intro (Recommended Link) | [Link](http://90.230.15.92/) |
 
 DS Download Play
 
