@@ -44,6 +44,4 @@ edge|emulation - [Link](https://edgeemu.net/)
 
 Vimm's Lair - [Link](https://vimm.net/?p=vault)
 
-Mobasuitecom's Rom's server - [Link](http://90.230.15.92/)
-
 Alvro Rebranded Mirror Google Drive - [Link](https://drive.google.com/drive/folders/1rEtYPc8XTTrfye-dNXuhwBqnny33ZLeB)
