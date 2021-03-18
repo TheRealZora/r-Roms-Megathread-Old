@@ -1,6 +1,8 @@
 # Microsoft Tab
 Links to Microsoft ROMs<br/>
 
+Older systems can be found in the [Others Tab](/megathread/other.md)<br/>
+
 ## **Microsoft Xbox**<br/> 
 Xbox
 
