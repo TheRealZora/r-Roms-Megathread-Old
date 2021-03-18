@@ -1,7 +1,7 @@
 # Nintendo Tab
 Links to Nintendo ROMs
 
-Nintendo 64 and older can be found in the [Retro Tab](/megathread/retro.md)<br/>
+Nintendo 64 and older can be found in the [Others/Retro Tab](/megathread/other.md)<br/>
 
 
 ## **Nintendo DS**<br/>
@@ -18,7 +18,7 @@ DS
 - |**Other: All**|**Links**| 
 | ------ | ------ |
 | Squid-Proxy No-Intro | [Link](https://www.squid-proxy.xyz/Games/Nintendo%20DS/) |
-| mobasuitecom No-Intro (Recommended Link) | [Link](http://90.230.15.92/) |
+| mobasuitecom No-Intro (Recommended Link) | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%20DS%20(Decrypted)/) |
 
 DS Download Play
 

@@ -1,4 +1,4 @@
-# Others Tab
+# Others/Retro Tab
 Links to other stuff<br/>
 
 ## **Arcade**<br/>
@@ -10,7 +10,8 @@ Links to other stuff<br/>
 | MAME 0.220 Software List ROMs Merged | [Link](https://archive.org/download/mame_sl_0220/MAME%20SL%200.220%20(Merged)/) |
 | Update MAME 0.220 Software List ROMs (0.220->0.229) | [Link](https://archive.org/download/mame_sl_0220/Updates/) |
 | MAME 0.229 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
-| MAME 0.229 ROMs Merged (**Internet Archive**) | [Link](https://archive.org/download/mame.0229)
+| MAME 0.229 ROMs Merged (**Internet Archive**) | [Link](https://archive.org/download/mame.0229) |
+| MAME 0.229 ROMs Merged (**Google Cloud**) | [Link](https://console.cloud.google.com/storage/browser/mobaforum/MAME) |
 
 FinalBurn Neo
 
@@ -37,6 +38,7 @@ FinalBurn Neo
 | RetroArch BIOS| [Link](https://archive.org/download/RetroarchSystemFiles/Retroarch-System/) |
 | Redump BIOS | [Link](https://archive.org/download/2019_11_25_redump_bios) |
 | TOSEC Firmware and Operating Systems Collection | [Link](https://archive.org/download/tosec_fw_os) |
+| English Translations for Retro Games (Archived by /u/TheStorageManager)| [Link](https://archive.org/details/@storage_manager?and[]=subject%3A%93Retroplay%93) |
 
 ## **Reputable ROM Sites and Collections**<br/>
 
