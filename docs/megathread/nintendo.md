@@ -18,6 +18,7 @@ DS
 - |**Other: All**|**Links**| 
 | ------ | ------ |
 | Squid-Proxy No-Intro | [Link](https://www.squid-proxy.xyz/Games/Nintendo%20DS/) |
+| mobasuitecom No-Intro | [Link](https://console.cloud.google.com/storage/browser/mobaforum/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29) |
 
 DS Download Play
 
@@ -82,7 +83,7 @@ DSiWare
 
 If Citra says the roms are encrypted, use either download [Batch CIA-3DS Decryptor](https://gbatemp.net/download/batch-cia-3ds-decryptor.35098/) to decrypt.
 
-Or add the following AES keys to CitraAES Keys for Citra, [https://pastebin.com/tBY6RHh4](https://pastebin.com/tBY6RHh4)
+Or add the following AES keys to CitraAES Keys for Citra, [Pastebin Link](https://pastebin.com/tBY6RHh4)
 Click download on Pastebin to download the text in this file as a .txt file.
 
 Windows installation instructions
