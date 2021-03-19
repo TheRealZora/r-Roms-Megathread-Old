@@ -1,7 +1,7 @@
 # Nintendo Tab
 Links to Nintendo ROMs
 
-Older systems can be found in the [Others Tab](/megathread/other.md)<br/>
+Older systems can be found in the [Others Tab](/megathread/other)<br/>
 
 
 ## **Nintendo DS**<br/>

@@ -1,7 +1,7 @@
 # SEGA Tab
 Links to SEGA ROMs<br/>
 
-Older systems can be found in the [Others Tab](/megathread/other.md)<br/>
+Older systems can be found in the [Others Tab](/megathread/other)<br/>
 
 ## **Sega Dreamcast**<br/>
 <br/>Dreamcast
