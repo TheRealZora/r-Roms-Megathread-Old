@@ -33,7 +33,7 @@ FinalBurn Neo
 | TOSEC 2018-12-27 | [Link](https://archive.org/download/TOSEC_Main_Branch_Release_2018-12-27) |
 | EverDrive 2018 Torrent | [Link](https://pastebin.com/raw/ywTQeDmS) |
 
-mobasuitecom No-Intro
+mobasuite.com No-Intro
 
 - |**System**|**Links**|
 | ------ | ------ |
