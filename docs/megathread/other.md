@@ -32,6 +32,7 @@ FinalBurn Neo
 | GoodSets | [Link](https://1fichier.com/dir/ugDwQd8N) |
 | TOSEC 2018-12-27 | [Link](https://archive.org/download/TOSEC_Main_Branch_Release_2018-12-27) |
 | EverDrive 2018 Torrent | [Link](https://pastebin.com/raw/ywTQeDmS) |
+| Retroplay English Translations **Googe Cloud** | [Link](https://console.cloud.google.com/storage/browser/mobaforum/RetroPlay%20TEn) |
 
 mobasuitecom No-Intro
 
@@ -68,8 +69,10 @@ mobasuitecom No-Intro
 | Doom WADs | [Link](https://archive.org/download/2020_03_22_DOOM/DOOM%20WADs/) |
 | RetroArch BIOS| [Link](https://archive.org/download/RetroarchSystemFiles/Retroarch-System/) |
 | Redump BIOS | [Link](https://archive.org/download/2019_11_25_redump_bios) |
+| BIOS for pretty much anything | [Link](https://mega.nz/folder/9ZdQwaaY#u63KaI0MsKcIqWE2GQmUuA) |
 | TOSEC Firmware and Operating Systems Collection | [Link](https://archive.org/download/tosec_fw_os) |
-| English Translations for Retro Games (Archived by /u/TheStorageManager)| [Link](https://archive.org/details/@storage_manager?and[]=subject%3A%93Retroplay%93) |
+
+
 
 ## **Reputable ROM Sites and Collections**<br/>
 
