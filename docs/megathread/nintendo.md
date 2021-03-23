@@ -18,7 +18,7 @@ DS
 - |**Other: All**|**Links**| 
 | ------ | ------ |
 | Squid-Proxy No-Intro | [Link](https://www.squid-proxy.xyz/Games/Nintendo%20DS/) |
-| mobasuitecom No-Intro **Google Cloud** | [Link](https://console.cloud.google.com/storage/browser/mobaforum/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29) |
+| mobasuitecom No-Intro | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%20DS/) |
 
 DS Download Play
 
