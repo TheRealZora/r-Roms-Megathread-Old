@@ -42,6 +42,10 @@ DSiWare
 ## **Nintendo 3DS**<br/>
 3DS
 
+- |**Other: ALL**|**Links**|
+| ------ | ------ |
+| hShop 3DS Content in .cia Format and QR Codes | [Link](https://hshop.erista.me) |
+
 - |**Google Drive: ALL**|**Links**|
 | ------ | ------ |
 | No-Intro Nintendo (NEW)3DS 2017/2018 | [Link](https://drive.google.com/drive/folders/1R5c6-nY5mMns8G1u2tcbYumfTCGXDQ5w) |
