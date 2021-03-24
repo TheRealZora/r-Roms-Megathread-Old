@@ -34,7 +34,7 @@ FinalBurn Neo
 | EverDrive 2018 Torrent | [Link](https://pastebin.com/raw/ywTQeDmS) |
 | Retroplay English Translations **Googe Cloud** | [Link](https://console.cloud.google.com/storage/browser/mobaforum/RetroPlay%20TEn) |
 
-mobasuite.com No-Intro
+u/mobasuitecom No-Intro
 
 - |**System**|**Links**|
 | ------ | ------ |
@@ -42,8 +42,8 @@ mobasuite.com No-Intro
 | Nintendo - Family Computer Network System | [Link](http://90.230.15.92/Nintendo%20-%20Family%20Computer%20Network%20System/) |
 | Nintendo - Game Boy Advance (Multiboot) | [Link](http://90.230.15.92/Nintendo%20-%20Game%20Boy%20Advance%20(Multiboot)/) |
 | Nintendo - Game Boy Advance | [Link](http://90.230.15.92/Nintendo%20-%20Game%20Boy%20Advance/) |
-| Nintendo - Game Boy Color | [Link](http://90.230.15.92/Nintendo%20-%20Game%20Boy%20Color/) |
-| Nintendo - Game Boy | [Link](http://90.230.15.92/Nintendo%20-%20Game%20Boy/) |
+| Nintendo - Game Boy Color | [Link](http://90.230.15.92/Nintendo%20-%20Game%20Boy%20Color.7z) |
+| Nintendo - Game Boy | [Link](http://90.230.15.92/Nintendo%20-%20Game%20Boy.7z) |
 | Nintendo - Nintendo 64 | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%2064/) |
 | Nintendo - Nintendo 64DD | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%2064DD/) |
 | Nintendo - Nintendo Entertainment System | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%20Entertainment%20System/) |
@@ -106,3 +106,5 @@ edge|emulation - [Link](https://edgeemu.net/)
 Vimm's Lair - [Link](https://vimm.net/?p=vault)
 
 Alvro Rebranded Mirror Google Drive - [Link](https://drive.google.com/drive/folders/1rEtYPc8XTTrfye-dNXuhwBqnny33ZLeB)
+
+u/mobasuitecom's ROM server - [Link](http://90.230.15.92/)

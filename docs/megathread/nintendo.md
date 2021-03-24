@@ -18,7 +18,7 @@ DS
 - |**Other: All**|**Links**| 
 | ------ | ------ |
 | Squid-Proxy No-Intro | [Link](https://www.squid-proxy.xyz/Games/Nintendo%20DS/) |
-| mobasuitecom No-Intro | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%20DS/) |
+| u/mobasuitecom No-Intro | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%20DS/) |
 
 DS Download Play
 
@@ -44,7 +44,7 @@ DSiWare
 
 - |**Other: ALL**|**Links**|
 | ------ | ------ |
-| hShop 3DS Content in .cia Format and QR Codes | [Link](https://hshop.erista.me) |
+| hShop: 3DS Content in .cia Format and QR Codes for use with FBI | [Link](https://hshop.erista.me) |
 
 - |**Google Drive: ALL**|**Links**|
 | ------ | ------ |
