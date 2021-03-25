@@ -34,34 +34,6 @@ FinalBurn Neo
 | EverDrive 2018 Torrent | [Link](https://pastebin.com/raw/ywTQeDmS) |
 | Retroplay English Translations **Googe Cloud** | [Link](https://console.cloud.google.com/storage/browser/mobaforum/RetroPlay%20TEn) |
 
-u/mobasuitecom No-Intro
-
-- |**System**|**Links**|
-| ------ | ------ |
-| Nintendo - Family Computer Disk System | [Link](http://90.230.15.92/Nintendo%20-%20Family%20Computer%20Disk%20System/) |
-| Nintendo - Family Computer Network System | [Link](http://90.230.15.92/Nintendo%20-%20Family%20Computer%20Network%20System/) |
-| Nintendo - Game Boy Advance (Multiboot) | [Link](http://90.230.15.92/Nintendo%20-%20Game%20Boy%20Advance%20(Multiboot)/) |
-| Nintendo - Game Boy Advance | [Link](http://90.230.15.92/Nintendo%20-%20Game%20Boy%20Advance/) |
-| Nintendo - Game Boy Color | [Link](http://90.230.15.92/Nintendo%20-%20Game%20Boy%20Color.7z) |
-| Nintendo - Game Boy | [Link](http://90.230.15.92/Nintendo%20-%20Game%20Boy.7z) |
-| Nintendo - Nintendo 64 | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%2064/) |
-| Nintendo - Nintendo 64DD | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%2064DD/) |
-| Nintendo - Nintendo Entertainment System | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%20Entertainment%20System/) |
-| Nintendo - Play-Yan | [Link](http://90.230.15.92/Nintendo%20-%20Play-Yan/) |
-| Nintendo - Pokémon Mini | [Link](http://90.230.15.92/Nintendo%20-%20Pok%c3%a9mon%20Mini/) |
-| Nintendo - Satellaview | [Link](http://90.230.15.92/Nintendo%20-%20Satellaview/) |
-| Nintendo - Sufami Turbo | [Link](http://90.230.15.92/Nintendo%20-%20Sufami%20Turbo/) |
-| Nintendo - Super Nintendo Entertainment System | [Link](http://90.230.15.92/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/) |
-| Nintendo - Virtual Boy | [Link](http://90.230.15.92/Nintendo%20-%20Virtual%20Boy/) |
-| Nintendo - amiibo | [Link](http://90.230.15.92/Nintendo%20-%20amiibo/) |
-| Nintendo - e-Reader | [Link](http://90.230.15.92/Nintendo%20-%20e-Reader/) |
-| Sega - 32X | [Link](http://90.230.15.92/Sega%20-%2032X/) |
-| Sega - Beena | [Link](http://90.230.15.92/Sega%20-%20Beena/) |
-| Sega - Game Gear | [Link](http://90.230.15.92/Sega%20-%20Game%20Gear/) |
-| Sega - Master System - Mark III | [Link](http://90.230.15.92/Sega%20-%20Master%20System%20-%20Mark%20III/) |
-| Sega - Mega Drive - Genesis | [Link](http://90.230.15.92/Sega%20-%20Mega%20Drive%20-%20Genesis/) |
-| Sega - SG-1000 | [Link](http://90.230.15.92/Sega%20-%20SG-1000/) |
-
 archive.org No-Intro
 
 - |**System**|**Links**|
