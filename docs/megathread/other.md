@@ -31,7 +31,7 @@ FinalBurn Neo
 | No-Intro Collection 2016-01-03 | [Link](https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) |
 | GoodSets | [Link](https://1fichier.com/dir/ugDwQd8N) |
 | TOSEC 2018-12-27 | [Link](https://archive.org/download/TOSEC_Main_Branch_Release_2018-12-27) |
-| EverDrive 2018 Torrent | [Link](https://pastebin.com/raw/ywTQeDmS) |
+| Hardware Target Game Database (Everdrive & MiSTerFPGA) Gamepacks | [Link](https://archive.org/download/htgdb-gamepacks) |
 | Retroplay English Translations **Googe Cloud** | [Link](https://console.cloud.google.com/storage/browser/mobaforum/RetroPlay%20TEn) |
 
 archive.org No-Intro
