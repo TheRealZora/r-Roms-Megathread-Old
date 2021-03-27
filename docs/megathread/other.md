@@ -63,7 +63,19 @@ archive.org Redump
 
 - |**System**|**Links**|
 | ------ | ------ |
-| NEC - PC Engine CD & TurboGrafx CD | [Link](https://archive.org/details/redump.pce.revival) |
+| Atari Jaguar CD Interactive Multimedia System | [Link](https://archive.org/download/redump.jaguar.revival) |
+| Fujitsu - FM-Towns | [Link](https://archive.org/details/redump.fm.revival) |
+| NEC - PC Engine CD & TurboGrafx CD | [Link](https://archive.org/download/redump.pce.revival) |
+| NEC - PC-FX & PC-FXGA | [Link](https://archive.org/download/redump.pcfx.revival) |
+| Panasonic - 3DO Interactive Multiplaye | [Link](https://archive.org/download/redump.3DO.revival) |
+| Philips - CD-i | [Link](https://archive.org/download/redump.cdi.revival) |
+| Photo CD | [Link](https://archive.org/download/redump.photo.revival) |
+| SNK - Neo Geo CD | [Link](https://archive.org/download/redump.ngcd.revival) |
+| Sega - Sega Chihiro | [Link](https://archive.org/download/redump.chihiro.revival) |
+| Sega - Sega Naomi | [Link](https://archive.org/download/redump.naomi.revival) |
+| Sega - Sega Naomi2 | [Link](https://archive.org/download/redump.naomi2.revival) |
+
+
 
 ## **Miscellaneous**
 
