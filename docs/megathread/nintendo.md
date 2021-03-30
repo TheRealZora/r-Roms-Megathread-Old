@@ -44,7 +44,7 @@ DSiWare
 
 - |**Other: ALL**|**Links**|
 | ------ | ------ |
-| hShop: 3DS Content in .cia Format and QR Codes for use with FBI | [Link](https://hshop.erista.me) |
+| hShop: 3DS Content in .cia Format and QR Codes | [Link](https://hshop.erista.me) |
 
 - |**Google Drive: ALL**|**Links**|
 | ------ | ------ |
