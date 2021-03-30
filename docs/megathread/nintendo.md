@@ -9,7 +9,7 @@ DS
 
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ |
-| No-Intro - Nintendo DS (Decrypted) (2019-06-30) | [Link](https://archive.org/download/noIntroNintendoDsDecrypted2019Jun30) |
+| No-Intro - Nintendo DS (Decrypted) (2020-01-20) | [Link](https://archive.org/details/noIntroNintendoDsDecrypted2020Jan20) |
 
 - |**Google Drive: All**|**Links**| 
 | ------ | ------ |
