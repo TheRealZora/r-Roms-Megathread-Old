@@ -8,17 +8,17 @@ Links to other stuff<br/>
 - |**MAME ROMs/CHDs**|**Links**|
 | ------ | ------ |
 | MAME 0.220 Software List ROMs Merged | [Link](https://archive.org/download/mame_sl_0220/MAME%20SL%200.220%20(Merged)/) |
-| Update MAME 0.220 Software List ROMs (0.220->0.229) | [Link](https://archive.org/download/mame_sl_0220/Updates/) |
-| MAME 0.229 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
+| Update MAME 0.220 Software List ROMs (0.220->0.230) | [Link](https://archive.org/download/mame_sl_0220/Updates/) |
+| MAME 0.230 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
 | MAME 0.229 ROMs Merged (**Internet Archive**) | [Link](https://archive.org/download/mame.0229) |
-| MAME 0.229 ROMs Merged (**Google Cloud**) | [Link](https://console.cloud.google.com/storage/browser/mobaforum/MAME) |
+| u/mobasuitecom MAME 0.230 ROMs Merged | [Link](https://romcollector.asuscomm.com/mame230/) |
 
 FinalBurn Neo
 
 - |**FinalBurn Neo ROMs**|**Links**|
 | ------ | ------ |
 | FinalBurn Neo Nightly ROMs + Support (Updated Monthly) | [Link](https://archive.org/download/2020_01_06_fbn) |
-| FinalBurn Neo Nightly ROMs (Updated every few days) | [Link](http://90.230.15.92/FinalBurn%20Neo/) |
+| FinalBurn Neo Nightly ROMs (Updated every few days) | [Link](https://romcollector.asuscomm.com/FinalBurn%20Neo/) |
 | FinalBurn Neo 1.0.0.0 ROMs + Support | [Link](https://archive.org/download/fbneo/FBNeo/) |
 
 ## **Romsets**<br/>
@@ -32,7 +32,7 @@ FinalBurn Neo
 | GoodSets | [Link](https://1fichier.com/dir/ugDwQd8N) |
 | TOSEC 2018-12-27 | [Link](https://archive.org/download/TOSEC_Main_Branch_Release_2018-12-27) |
 | Hardware Target Game Database (Everdrive & MiSTerFPGA) Gamepacks | [Link](https://archive.org/download/htgdb-gamepacks) |
-| Retroplay English Translations **Googe Cloud** | [Link](https://console.cloud.google.com/storage/browser/mobaforum/RetroPlay%20TEn) |
+| Retroplay English Translations **archive.org** | [Link](https://archive.org/download/retroplay-en/RetroPlay-En/) |
 
 archive.org No-Intro
 
@@ -97,4 +97,4 @@ Vimm's Lair - [Link](https://vimm.net/?p=vault)
 
 Alvro Rebranded Mirror Google Drive - [Link](https://drive.google.com/drive/folders/1rEtYPc8XTTrfye-dNXuhwBqnny33ZLeB)
 
-u/mobasuitecom's ROM server - [Link](http://90.230.15.92/)
+u/mobasuitecom's ROM server - [Link](https://romcollector.asuscomm.com/)
