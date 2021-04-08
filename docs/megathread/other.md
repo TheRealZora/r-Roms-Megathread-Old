@@ -10,8 +10,9 @@ Links to other stuff<br/>
 | MAME 0.220 Software List ROMs Merged | [Link](https://archive.org/download/mame_sl_0220/MAME%20SL%200.220%20(Merged)/) |
 | Update MAME 0.220 Software List ROMs (0.220->0.230) | [Link](https://archive.org/download/mame_sl_0220/Updates/) |
 | MAME 0.230 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
-| MAME 0.229 ROMs Merged (**Internet Archive**) | [Link](https://archive.org/download/mame.0229) |
+| MAME 0.229 ROMs Merged | [Link](https://archive.org/download/mame.0229) |
 | mobasuite.com MAME 0.230 ROMs Merged | [Link](https://romcollector.asuscomm.com/mame230/) |
+| HBMAME 0.230 ROMs Merged | [Link](https://archive.org/download/hbmame-0.230-merged/HBmame%200.230%20%28Merged%29/) |
 
 FinalBurn Neo
 
