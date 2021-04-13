@@ -169,20 +169,20 @@ Wii U
 
 - |**Tools**|**Links**|
 | ------ | ------ |
-| Wii U USB Helper | [Link](https://www.reddit.com/r/CemuPiracy/comments/bszm0p/how_to_set_up_wii_u_usb_helper_after_its/) (Note: to use files with cemu emulator, check the checkbox that says `Unpack`)
+| Wii U USB Helper | [Link](https://wiki.agilly1989.xyz/books/wiiu/page/usbhelper-usbhelperlauncher) (Note: to use files with cemu emulator, check the checkbox that says `Unpack`)
 
 - |**Scene Games**|**Links**|
 | ------ | ------ |
 | Alvro Rebranded Mirror, Wii U Scene Games | [Link](https://drive.google.com/drive/folders/1k6bhO9VhZWdq7Lz6fY6RxOrs9D8lm2ks) |
 
-- |**NUS Format**|**Links**|
+- |**NUS Format**  (for use with Cemu, use [CDecrypt](https://wiki.agilly1989.xyz/books/wiiu/page/cdecrypt) to unpack the files) |**Links**|
 | ------ | ------ |
 | Wii U NUS Disc | [Link](https://drive.google.com/drive/folders/1l5yBGCynkNLeC0CbSZKoSiFmwd7_mTVt) |
 | Wii U NUS Download All Regions | [Link](https://drive.google.com/drive/folders/1NCiboZf3uTD3sVPkTN288s-mpbRkgYwX) |
 | Wii U NUS Retail All Regions | [Link](https://drive.google.com/drive/folders/1gG4_3uQAQaWJrg9LC4KjcYFsfxI4xb17) |
 | Wii U NUS Virtual Console | [Link](https://drive.google.com/drive/folders/14WAI96ztCoJtm-XsAsN6S0qL5XdDHDwV) |
 
-- |**RAW Format**|**Links**|
+- |**RAW Format**  (for use with Cemu, use [JWUDTool](https://wiki.agilly1989.xyz/books/wiiu/page/jwudtool) to unpack the files) |**Links**|
 | ------ | ------ |
 | Wii U RAW Disc | [Link](https://drive.google.com/drive/folders/1B9h4tg0GTP1MoWdhCq2jhTsU7UsTOkA5) |
 | Wii U RAW Download All Regions | [Link](https://drive.google.com/drive/folders/1Zo8xAsmHJehtMJ8dK3AFIP8lA1nHcVLT) |
