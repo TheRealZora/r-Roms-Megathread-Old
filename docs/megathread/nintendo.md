@@ -111,9 +111,9 @@ If using real hardware, use [this](https://archive.org/compress/NKitFullyLoaded2
 
 - |**RVZ Format**|**Links**|
 | ------ | ------ |
-| Nintendo - GameCube (NKit GCZ / RVZ) - Retail Part 1 | [Link](https://archive.org/download/ngc-nkitgcz_retail_mainregions) |
-| Nintendo - GameCube (NKit GCZ / RVZ) - Retail Part 2 | [Link](https://archive.org/download/ngc-nkitgcz_retail_mainregions2) |
-| Nintendo - GameCube (NKit GCZ / RVZ) - Demo | [Link](https://archive.org/download/ngc-nkitgcz_demo_202004) |
+| Nintendo - GameCube (NKit GCZ / RVZ) - Retail Part 1 | [Link](https://archive.org/details/ngc-rvz_mainregions1) |
+| Nintendo - GameCube (NKit GCZ / RVZ) - Retail Part 2 | [Link](https://archive.org/details/ngc-rvz_mainregions2) |
+| Nintendo - GameCube (NKit GCZ / RVZ) - Demo | [Link](https://archive.org/details/ngc-rvz_demo) |
 
 - |**ISO Format**|**Links**|
 | ------ | ------ |
