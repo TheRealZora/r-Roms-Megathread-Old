@@ -11,7 +11,7 @@ Links to other stuff<br/>
 | Update MAME 0.220 Software List ROMs (0.220->0.230) | [Link](https://archive.org/download/mame_sl_0220/Updates/) |
 | MAME 0.230 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
 | MAME 0.229 ROMs Merged | [Link](https://archive.org/download/mame.0229) |
-| mobasuite.com MAME 0.230 ROMs Merged | [Link](https://romcollector.asuscomm.com/Arcades/mame230/) |
+| mobasuite.com MAME 0.230 ROMs Merged | [Link](http://90.230.15.92/mame230/) |
 | HBMAME 0.230 ROMs Merged | [Link](https://archive.org/download/hbmame-0.230-merged/HBmame%200.230%20%28Merged%29/) |
 
 FinalBurn Neo
@@ -97,4 +97,4 @@ Vimm's Lair - [Link](https://vimm.net/?p=vault)
 
 Alvro Rebranded Mirror Google Drive - [Link](https://drive.google.com/drive/folders/1rEtYPc8XTTrfye-dNXuhwBqnny33ZLeB)
 
-mobasuite.com's ROM server - [Link](https://romcollector.asuscomm.com/)
+mobasuite.com's ROM server - [Link](http://90.230.15.92/)
