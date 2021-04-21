@@ -118,3 +118,11 @@ Super Smash Bros Games
 | ------ | ------ |
 | Super Smash Bros Brawl ISO (Wii)| [Link](https://archive.org/download/WiiRedumpNKitPart7/Super%20Smash%20Bros.%20Brawl%20%28USA%29%20%28Rev%201%29/Super%20Smash%20Bros.%20Brawl%20%28USA%29%20%28Rev%201%29.nkit.gcz) |
 | Super Smash Bros Melee v1.02 ISO (GC)| [Link](https://archive.org/download/GCRedumpNKitPart2/Super%20Smash%20Bros.%20Melee%20%28USA%29%20%28En%2CJa%29.nkit.gcz) | 
+
+## Xenoblade<br/>
+
+Xenoblade Games
+
+- |**Xenoblade**| **Links** |
+| ------ | ------ |
+| Xenoblade Chronicles (Wii) (USA)| [Link](https://archive.org/download/WiiRedumpNKitPart8/Xenoblade%20Chronicles%20%28USA%29%20%28En%2CFr%2CEs%29/Xenoblade%20Chronicles%20%28USA%29%20%28En%2CFr%2CEs%29.nkit.gcz) |
