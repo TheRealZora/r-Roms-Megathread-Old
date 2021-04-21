@@ -11,10 +11,6 @@ DS
 | ------ | ------ |
 | No-Intro - Nintendo DS (Decrypted) (2020-01-20) | [Link](https://archive.org/details/noIntroNintendoDsDecrypted2020Jan20) |
 
-- |**Google Drive: All**|**Links**| 
-| ------ | ------ |
-| AlvRo Rebranded Mirror, NDS Numbered ROMs | [Link](https://drive.google.com/drive/folders/1s3zKz90Nb-5L3LemxaCTcc5V9fZ4z00o) |
-
 - |**Other: All**|**Links**| 
 | ------ | ------ |
 | Squid-Proxy No-Intro | [Link](https://www.squid-proxy.xyz/Games/Nintendo%20DS/) |
@@ -62,26 +58,6 @@ DSiWare
 - |**Mega: ALL**|**Links**|
 | ------ | ------ |
 | 3DS ROMs| [Link](https://drive.google.com/file/d/1r1CS6UVPLafPbCFM7sjF1baupsEr5APH/view) (This contains megalinks, read the top of the document for instructions) |
-
-- |**Google Drive: ALL**|**Links**|
-| ------ | ------ |
-| 3DS ROMs Scene No RAR | [Link](https://drive.google.com/drive/folders/1Gd5cJUstN6gwZI9lKzHcDWJ-kh0ktexL) |
-| 3DS eShop Scene No RAR | [Link](https://drive.google.com/drive/folders/1MDy65pGaoIOmoIg__fey3b_CjKNm3Ujc) |
-| 3DS x-files | [Link](https://drive.google.com/drive/folders/1BLaIl4v3cgmdpoXx8bB7q33Vvh_mt32n) |
-| 3DS CIA Scene No RAR| [Link](https://drive.google.com/drive/folders/1FWWm3qNg_HHANTmEeY_SxRRabUm_3wgC) |
-| 3DS CIA eShop Scene No RAR | [Link](https://drive.google.com/drive/folders/1Y8yGQ9-tTWdleCbTMiEI4-XiFOYLpcNs) |
-| 3DS CIA DLC | [Link](https://drive.google.com/drive/folders/1ARm3uFESLi9r1pbym_XR5lNbDb8_BUDS) |
-| 3DS CIA Updates | [Link](https://drive.google.com/drive/folders/17ltCPytHV4qSftGPvFwxGBfmfiwJfjjU) |
-| 3DS Legit CIA All | [Link](https://drive.google.com/drive/folders/1G7o0kFXpT4Qzwehe_rrs_zWqn45nCkYV) |
-| 3DS Decrypted Citra | [Link](https://drive.google.com/drive/folders/1JPW_yrSrqF_hnXtlpR-6-qXUitEAeQXz) |
-| 3DS Decrypted Citra eShop | [Link](https://drive.google.com/drive/folders/1BHCXsJYQvqsalW5IaU4N9bkCdhU1fILB)|
-| 3DS No-Intro | [Link](https://drive.google.com/drive/folders/1oImDLb5j8FtXnrQy9VVSRVOYVutJVbI4) |
-| 3DS No-Intro eShop | [Link](https://drive.google.com/drive/folders/1u8Ro8KtCPPAy6eOIZ7KlFF8u-LJEj7l0) |
-| N3DS No-Intro | [Link](https://drive.google.com/drive/folders/1hRsLubAne0hFHxJ9K7eJORc4n0pCCDFG) |
-| N3DS No-Intro eShop | [Link](https://drive.google.com/drive/folders/1siyQFUEqqtc9z-SBtqAjvxjfi2zmx0sy) |
-| 3DS .cia No-Intro | [Link](https://drive.google.com/drive/folders/1igGdcIznoZiloF8RK0Jwbn2YZI5nztyo) |
-| 3DS .cia No-Intro eShop | [Link](https://drive.google.com/drive/folders/1hWKO_6v7ud_WXB9RxDB2MuwLqvuPmFhc) |
-| N3DS .cia No-Intro | [Link](https://drive.google.com/drive/folders/1GW2MQxIol-HlOn4eN4NZZTXttnsi54pQ) |
 
 - **.3ds/.cia Decryption Instructions:**
 
@@ -170,21 +146,3 @@ Wii U
 - |**Tools**|**Links**|
 | ------ | ------ |
 | Wii U USB Helper | [Link](https://www.reddit.com/r/CemuPiracy/comments/bszm0p/how_to_set_up_wii_u_usb_helper_after_its/) (Note: to use files with cemu emulator, check the checkbox that says `Unpack`)
-
-- |**Scene Games**|**Links**|
-| ------ | ------ |
-| Alvro Rebranded Mirror, Wii U Scene Games | [Link](https://drive.google.com/drive/folders/1k6bhO9VhZWdq7Lz6fY6RxOrs9D8lm2ks) |
-
-- |**NUS Format**|**Links**|
-| ------ | ------ |
-| Wii U NUS Disc | [Link](https://drive.google.com/drive/folders/1l5yBGCynkNLeC0CbSZKoSiFmwd7_mTVt) |
-| Wii U NUS Download All Regions | [Link](https://drive.google.com/drive/folders/1NCiboZf3uTD3sVPkTN288s-mpbRkgYwX) |
-| Wii U NUS Retail All Regions | [Link](https://drive.google.com/drive/folders/1gG4_3uQAQaWJrg9LC4KjcYFsfxI4xb17) |
-| Wii U NUS Virtual Console | [Link](https://drive.google.com/drive/folders/14WAI96ztCoJtm-XsAsN6S0qL5XdDHDwV) |
-
-- |**RAW Format**|**Links**|
-| ------ | ------ |
-| Wii U RAW Disc | [Link](https://drive.google.com/drive/folders/1B9h4tg0GTP1MoWdhCq2jhTsU7UsTOkA5) |
-| Wii U RAW Download All Regions | [Link](https://drive.google.com/drive/folders/1Zo8xAsmHJehtMJ8dK3AFIP8lA1nHcVLT) |
-| Wii U RAW Retail All Regions | [Link](https://drive.google.com/drive/folders/1uvkvNEbSzOb6xQhxIUjpm0d7M-ewLCv4) |
-| Wii U RAW Virtual Console | [Link](https://drive.google.com/drive/folders/1mjHeJV_eW3lqIEWW7-2KLy7iU8AJH3uE) |
