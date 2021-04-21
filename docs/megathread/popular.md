@@ -103,7 +103,6 @@ Zelda Games
 
 - |**Legend of Zelda**|**Links**|
 | ------ | ------ |
-| Legend of Zelda Breath of the Wild (Wii U) (USA) | [Game](https://drive.google.com/file/d/1CckvkzzQ8onTOcceKX_HIC9reu9RYw5I/view?usp=sharing) / [DLC](https://drive.google.com/file/d/1vtE7EMMRw3WggWb2YmcC0kdYbNEbjjmL/view?usp=sharing) / [Update](https://drive.google.com/file/d/1_a8omXQOJ2s1M8Ae2YPWKBIA5aF8CzgK/view?usp=sharing)  (for use with Cemu, use [CDecrypt](https://wiki.agilly1989.xyz/books/wiiu/page/cdecrypt) to unpack the files) |
 | Legend of Zelda Twilight Princess (Wii) (USA) | [Link](https://archive.org/download/WiiRedumpNKitPart4/Legend%20of%20Zelda%2C%20The%20-%20Twilight%20Princess%20%28USA%29/Legend%20of%20Zelda%2C%20The%20-%20Twilight%20Princess%20%28USA%29.nkit.gcz) |
 | Legend of Zelda Twilight Princess (GC) (USA) | [Link](https://archive.org/download/GCRedumpNKitPart1/Legend%20of%20Zelda%2C%20The%20-%20Twilight%20Princess%20%28USA%29.nkit.gcz) |
 | Legend of Zelda Skyward Sword (Wii) (USA)| [Link](https://archive.org/download/WiiRedumpNKitPart4/Legend%20of%20Zelda%2C%20The%20-%20Skyward%20Sword%20%28USA%29%20%28En%2CFr%2CEs%29/Legend%20of%20Zelda%2C%20The%20-%20Skyward%20Sword%20%28USA%29%20%28En%2CFr%2CEs%29.nkit.gcz) |
@@ -117,15 +116,5 @@ Super Smash Bros Games
 
 - |**Super Smash Bros**|**Links**| 
 | ------ | ------ |
-| Super Smash Bros Wii U | [Game](https://drive.google.com/file/d/1lbLLPYJQM3Y5oRoB74XLsFOVLbXFFgs-/view?usp=sharing) / [DLC](https://drive.google.com/file/d/1Jh6CNafyvrTFkS-36UVCEMDn0xKn4_SX/view?usp=sharing) / [Update](https://drive.google.com/file/d/1mXwmcZf6Z-tRm8Dmkb7tjbz_qZFx5YHf/view?usp=sharing)  (for use with Cemu, use [CDecrypt](https://wiki.agilly1989.xyz/books/wiiu/page/cdecrypt) to unpack the files) |
 | Super Smash Bros Brawl ISO (Wii)| [Link](https://archive.org/download/WiiRedumpNKitPart7/Super%20Smash%20Bros.%20Brawl%20%28USA%29%20%28Rev%201%29/Super%20Smash%20Bros.%20Brawl%20%28USA%29%20%28Rev%201%29.nkit.gcz) |
 | Super Smash Bros Melee v1.02 ISO (GC)| [Link](https://archive.org/download/GCRedumpNKitPart2/Super%20Smash%20Bros.%20Melee%20%28USA%29%20%28En%2CJa%29.nkit.gcz) | 
-
-## Xenoblade<br/>
-
-Xenoblade Games
-
-- |**Xenoblade**| **Links** |
-| ------ | ------ |
-| Xenoblade Chronicles (Wii) (USA)| [Link](https://archive.org/download/WiiRedumpNKitPart8/Xenoblade%20Chronicles%20%28USA%29%20%28En%2CFr%2CEs%29/Xenoblade%20Chronicles%20%28USA%29%20%28En%2CFr%2CEs%29.nkit.gcz) |
-| Xenoblade Chronicles X (Wii U) (USA) | [Game](https://drive.google.com/file/d/1_GYMvb3y54sYIHJhUyGNt9S8zIiFB2kc/view?usp=sharing) / [DLC](https://drive.google.com/file/d/1eXrKAlaQZMghVAv_Q6zj-akvFqS9OT8x/view?usp=sharing) / [Update](https://drive.google.com/file/d/1i-9Lzbq5vakIlvt6oGWquewGFWa9hke6/view?usp=sharing) (for use with Cemu, use [CDecrypt](https://wiki.agilly1989.xyz/books/wiiu/page/cdecrypt) to unpack the files) |
