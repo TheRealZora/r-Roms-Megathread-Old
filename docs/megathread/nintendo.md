@@ -14,7 +14,7 @@ DS
 - |**Other: All**|**Links**| 
 | ------ | ------ |
 | Squid-Proxy No-Intro | [Link](https://www.squid-proxy.xyz/Games/Nintendo%20DS/) |
-| mobasuitecom No-Intro | [Link](https://console.cloud.google.com/storage/browser/mobaforum/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29) |
+| mobasuite.com No-Intro | [Link](http://90.230.15.92/Nintendo/Nintendo%20DS%20(Decrypted)/) |
 
 DS Download Play
 
@@ -40,7 +40,7 @@ DSiWare
 
 - |**Other: ALL**|**Links**|
 | ------ | ------ |
-| hShop 3DS Content in .cia Format and QR Codes | [Link](https://hshop.erista.me) |
+| hShop: 3DS Content in .cia Format and QR Codes | [Link](https://hshop.erista.me) |
 
 - |**Google Drive: ALL**|**Links**|
 | ------ | ------ |
@@ -87,9 +87,9 @@ If using real hardware, use [this](https://archive.org/compress/NKitFullyLoaded2
 
 - |**RVZ Format**|**Links**|
 | ------ | ------ |
-| Nintendo - GameCube (NKit GCZ / RVZ) - Retail Part 1 | [Link](https://archive.org/download/ngc-nkitgcz_retail_mainregions) |
-| Nintendo - GameCube (NKit GCZ / RVZ) - Retail Part 2 | [Link](https://archive.org/download/ngc-nkitgcz_retail_mainregions2) |
-| Nintendo - GameCube (NKit GCZ / RVZ) - Demo | [Link](https://archive.org/download/ngc-nkitgcz_demo_202004) |
+| Nintendo - GameCube (RVZ) - Retail Part 1 | [Link](https://archive.org/download/ngc-rvz_mainregions1) |
+| Nintendo - GameCube (RVZ) - Retail Part 2 | [Link](https://archive.org/download/ngc-rvz_mainregions2) |
+| Nintendo - GameCube (RVZ) - Demo | [Link](https://archive.org/download/ngc-rvz_demo) |
 
 - |**ISO Format**|**Links**|
 | ------ | ------ |
@@ -146,3 +146,5 @@ Wii U
 - |**Tools**|**Links**|
 | ------ | ------ |
 | Wii U USB Helper | [Link](https://www.reddit.com/r/CemuPiracy/comments/bszm0p/how_to_set_up_wii_u_usb_helper_after_its/) (Note: to use files with cemu emulator, check the checkbox that says `Unpack`)
+=======
+| Wii U USB Helper | [Link](https://wiki.agilly1989.xyz/books/wiiu/page/usbhelper-usbhelperlauncher) (Note: to use files with cemu emulator, check the checkbox that says `Unpack`)
